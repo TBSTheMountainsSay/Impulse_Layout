@@ -40,7 +40,7 @@ const Services = ({}) => {
       <div className={styles.photos}>
         <CustomImage src={photo21} description={'SE TR 2000/ TE 20'} />
         <CustomImage src={photo22} description={'SER TR 2000/ TE 20'} />
-        <CustomImage src={photo23} description={'SE TR 500/ TE 20'} />
+        <CustomImage src={photo23} description={'SE TR 500/ TE 20 '} />
         <CustomImage src={photo24} description={'SER TR 500/ TE 20'} />
       </div>
       <Text text={'Сравнение амплитуд SE и SER с разным TR:'} />
